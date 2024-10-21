@@ -13,4 +13,7 @@ A guide on how to create a simple fortnite backend!
 - Understanding of RESTful APIs
 
 ## Section Guide:
+
+### This guide is split into sections and parts (Subsections) this is to help split the guide into different areas of focus to enforce your understanding of that particular part.
+
 - Section 1 -- The Basics : With a basic understanding of javascript on the server you should be able to complete this section for the start of creating your own custom fortnite backend!
