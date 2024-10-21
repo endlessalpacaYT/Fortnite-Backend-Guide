@@ -1,0 +1,1 @@
+- Section 1 -- The Basics : With a basic understanding of javascript on the server you should be able to complete this section for the start of creating your own custom fortnite backend!
