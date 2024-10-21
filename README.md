@@ -8,7 +8,7 @@ A guide on how to create a simple fortnite backend!
 - [Node.js](https://nodejs.org/) (The main runtime for running your backend)
 - [Visual Studio Code](https://code.visualstudio.com/) (or your preferred code editor)
 
-### Skils:
+### Skills:
 - A basic understanding of javascript development or any other language that you will build your backend in (This guide will be focused on javascript)
 - Understanding of RESTful APIs
 
