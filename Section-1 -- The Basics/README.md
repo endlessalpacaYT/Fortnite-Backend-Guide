@@ -5,4 +5,4 @@
 
 ### Part Guide:
 - Part-1 -- Planning And Setup : In this part we will be going over the planning of your custom fortnite backend and the setup, this will include: how you will lay your backend structure out, what programming language you will add in your backend and what features you would like to include!
-- part-2 -- Javascript Fundamentals : In this part you will learn alot of core features of javascript, How to code basic functionality in javascript and alot of concepts of javascript, this part will not include much but it should be enough to get you on your boots!
+- Part-2 -- The Fundamentals : In this part you will learn alot of core features of express.js since that is the web framework we will be using in this guide, this part will not have alot but it will have enough to get you going with knowledge on creating basic routes, getting data from the request and sending back a response!
