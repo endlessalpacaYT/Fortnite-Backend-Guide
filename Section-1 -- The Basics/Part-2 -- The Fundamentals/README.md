@@ -70,4 +70,28 @@ express.get('/content/api/pages/*', (req, res) => {
 });
 ```
 
+### Starting Your Express Server:
+```javascript
+// Require your express package
+const express = require("express");
+const app = express();
+
+// Define a route
+app.get('/', (req, res) => {
+    res.status(200).send({
+        status: "OK",
+        code: 200
+    })
+})
+
+// Start the express server
+app.listen(3551);
+// Or do it like this with a log:
+app.listen(3551, () => {
+    console.log("Express Server Started");
+})
+
+// NOTE: 3551 can be changed to whatever port you would like e.g: app.listen(8080); will also work it will just start the express http server on port 8080 instead of 3551, To test your code go onto your browser and go to http://127.0.0.1:PORTNUMBER/ Replace PORTNUMBER with the port you chose
+```
+
 ## Congrats you just completed this part, I hope this helps you and if you are enjoying the tutorial so far please considering giving this repo a star!
