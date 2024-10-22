@@ -8,7 +8,7 @@
 There are 2 things we must do to acheive this:
 To Define a route file we must do this:
 ```javascript
-app.use(require("./routes/whatever_route.js")); // Must provide the path to your route filegg
+app.use(require("./routes/whatever_route.js")); // Must provide the path to your route file
 ```
 But wait we are not done, We must do this in our route file:
 ```javascript
