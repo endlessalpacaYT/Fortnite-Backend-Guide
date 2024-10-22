@@ -1,4 +1,4 @@
-# Contentpages
+# Datarouter
 
 1. Method: ```POST```, Route: ```/datarouter/api/v1/public/data```
 ```javascript
