@@ -40,7 +40,7 @@ The way you lay out your backend structure is completely up to you, you do not h
 ## Setup:
 - This guide will teach you how to set up your environment ready to program in!
 
-The setup is not hard, Simply open up a command prompt in your project folder and run the command ```npm install fastify.js``` Yes thats right, its that simple, Look at the features section in this readme below if you want more features in your backend!
+The setup is not hard, Simply open up a command prompt in your project folder and run the command ```npm install express``` Yes thats right, its that simple, Look at the features section in this readme below if you want more features in your backend!
 
 ### Features:
 If you would like to have certain features in your backend there are packages for them!
