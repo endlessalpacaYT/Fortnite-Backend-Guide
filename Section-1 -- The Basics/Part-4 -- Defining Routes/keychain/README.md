@@ -1,6 +1,6 @@
 # Keychain
 
-## This requires an external file which i have uploaded.
+## This requires an external file which i have uploaded. Creds to LawinserverV2 for the keychain.json
 
 First Require the file:
 ```javascript
